@@ -1,6 +1,8 @@
 <DOCTYPE html>
 <html>
 <head>
+   <body>
+      <img src= "https://remakelearning.org/wp-content/uploads/2020/01/122.gif">
    <h1 align="center">               
     Hello! Im Daxo_dev.
 </h1>
@@ -16,4 +18,6 @@
 -<h2> I am reachable most oftenly on my Discord: DaXo#2016. And then davud.dakit@gmail.com</h2>
 - <footer>
   </p2> Enrolled in SarajevoCodingClub</p2>
+   </head>
+      </body>
   
