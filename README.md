@@ -1,13 +1,6 @@
 <DOCTYPE html>
 <html>
 <head>
-  style { 
-  background: url(https://remakelearning.org/wp-content/uploads/2020/01/122.gif) no-repeat center center fixed; 
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
-}
    <h1 align="center">               
     Hello! Im Daxo_dev.
 </h1>
