@@ -1,7 +1,8 @@
 <DOCTYPE html>
 <html>
 <head>
-  - <h1><center>Hello! Im Daxo_dev.</center></h1>
+  <h1 align="center">
+  - <h1> <center>Hello! Im Daxo_dev.</center> </h1>
 - About me:
 - Im interested in Information Technology career pathways.
 - 16 years old. Videogame enthusiast and great passion for anything related to Computers
