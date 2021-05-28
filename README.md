@@ -1,3 +1,6 @@
 - Hello! Im Daxo_dev.
--                                                                   About me.
-- Im interested in Information Technology career pathways
+- About me:
+- Im interested in Information Technology career pathways.
+- 16 years old. Videogame enthusiast and great passion for anything related to Computers
+- I plan in my future to work hard and become a fully stacked front-end dev!
+- 
