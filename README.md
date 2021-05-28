@@ -2,7 +2,7 @@
 <html>
 <head>
    <body>
-      <img src= "https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif">
+      <img src= "https://stormotion.io/blog/content/images/2018/12/developer.gif">
    <h1 align="center">               
     Hello! Im Daxo_dev.
 </h1>
