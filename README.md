@@ -1,7 +1,7 @@
 <DOCTYPE html>
 <html>
 <head>
-  html { 
+  style { 
   background: url(https://remakelearning.org/wp-content/uploads/2020/01/122.gif) no-repeat center center fixed; 
   -webkit-background-size: cover;
   -moz-background-size: cover;
