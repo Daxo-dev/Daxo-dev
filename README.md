@@ -15,7 +15,7 @@
   - I plan in my future to work hard and become a fully stacked front-end dev!
   
   - Currently working and learning Html, Css, JavaScript
-<h2> I am reachable most oftenly on my gmail - davud.dakit@gmail.com</h2>
+<h2> I am reachable in an instant on my gmail if you need me. Contact - davud.dakit@gmail.com</h2>
 - <footer>
   </p2> Enrolled in SarajevoCodingClub</p2>
    </head>
