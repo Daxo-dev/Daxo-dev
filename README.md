@@ -1,3 +1,6 @@
+- <style>
+  h1 {text-align: center;}
+  </style
 - <h1>Hello! Im Daxo_dev.</h1>
 - About me:
 - Im interested in Information Technology career pathways.
