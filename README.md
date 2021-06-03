@@ -10,7 +10,7 @@
   
   - Im interested in Information Technology career pathways.
   
-  - 16 years old. Videogame enthusiast and great passion for anything related to Computers
+  - 16 years old. Video-game enthusiast and great passion for anything related to Computers
   
   - In the future, i hope to see my self as a mature and reasonable front (maybe back end) end developer!
   
