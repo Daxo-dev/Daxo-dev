@@ -12,7 +12,7 @@
   
   - 16 years old. Videogame enthusiast and great passion for anything related to Computers
   
-  - I plan in my future to work hard and become a fully stacked front-end dev!
+  - In the future, i hope to see my self as a mature and reasonable front (maybe back end) end developer!
   
   - Currently working and learning Html, Css, JavaScript
 <h2> I am reachable in an instant on my gmail if you need me. Contact - davud.dakit@gmail.com</h2>
